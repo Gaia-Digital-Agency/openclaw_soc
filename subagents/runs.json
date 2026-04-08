@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "runs": {
+    "09d1be64-e200-4caa-9aba-a7f13ff815f8": {
+      "runId": "09d1be64-e200-4caa-9aba-a7f13ff815f8",
+      "childSessionKey": "agent:copywriter:subagent:2792b8bd-4b82-4ca6-b731-cb743d77bdb4",
+      "controllerSessionKey": "agent:main:dashboard:985d8a06-e537-4166-9da7-0c951b294afd",
+      "requesterSessionKey": "agent:main:dashboard:985d8a06-e537-4166-9da7-0c951b294afd",
+      "requesterOrigin": {
+        "channel": "webchat"
+      },
+      "requesterDisplayKey": "agent:main:dashboard:985d8a06-e537-4166-9da7-0c951b294afd",
+      "task": "Generate three paid social ad hooks for a premium villa staycation offer. Focus on a luxurious and exclusive tone.",
+      "cleanup": "keep",
+      "expectsCompletionMessage": true,
+      "spawnMode": "run",
+      "model": "google/gemini-2.5-flash",
+      "workspaceDir": "/opt/.openclaw-soc/workspace-copywriter",
+      "runTimeoutSeconds": 0,
+      "createdAt": 1775611400685,
+      "startedAt": 1775611423622,
+      "sessionStartedAt": 1775611400685,
+      "accumulatedRuntimeMs": 0,
+      "cleanupHandled": true,
+      "retainAttachmentsOnKeep": false,
+      "endedAt": 1775611426345,
+      "outcome": {
+        "status": "ok"
+      },
+      "endedReason": "subagent-complete",
+      "frozenResultText": "Here are three paid social ad hooks for a premium villa staycation, with a luxurious and exclusive tone:\n\n1.  **Escape the Ordinary: Your Private Villa Awaits.** Indulge in unparalleled luxury and serenity with an exclusive staycation experience.\n2.  **Unwind in Grandeur: The Ultimate Villa Retreat.** Discover bespoke comfort and breathtaking privacy designed for the discerning few.\n3.  **Elevate Your Escape: Beyond a Hotel, A Private Oasis.** Experience opulent living and personalized service in your own secluded sanctuary.",
+      "frozenResultCapturedAt": 1775611426502,
+      "endedHookEmittedAt": 1775611431317,
+      "cleanupCompletedAt": 1775611431324
+    },
+    "9638995d-4908-4452-ba11-14f7bf37dbc3": {
+      "runId": "9638995d-4908-4452-ba11-14f7bf37dbc3",
+      "childSessionKey": "agent:copywriter:subagent:60630191-6882-44b6-9ab8-9b3de8ccaba0",
+      "controllerSessionKey": "agent:main:dashboard:b3922136-f873-4784-958f-0a4405bb9741",
+      "requesterSessionKey": "agent:main:dashboard:b3922136-f873-4784-958f-0a4405bb9741",
+      "requesterOrigin": {
+        "channel": "webchat"
+      },
+      "requesterDisplayKey": "agent:main:dashboard:b3922136-f873-4784-958f-0a4405bb9741",
+      "task": "Generate five blog article titles for luxury villa guest experience content.",
+      "cleanup": "keep",
+      "expectsCompletionMessage": true,
+      "spawnMode": "run",
+      "model": "google/gemini-2.5-flash",
+      "workspaceDir": "/opt/.openclaw-soc/workspace-copywriter",
+      "runTimeoutSeconds": 0,
+      "createdAt": 1775611428962,
+      "startedAt": 1775611444806,
+      "sessionStartedAt": 1775611428962,
+      "accumulatedRuntimeMs": 0,
+      "cleanupHandled": true,
+      "retainAttachmentsOnKeep": false,
+      "endedAt": 1775611447355,
+      "outcome": {
+        "status": "ok"
+      },
+      "endedReason": "subagent-complete",
+      "frozenResultText": "Here are five blog article titles for luxury villa guest experience content:\n\n1.  **Beyond the Brochure: Unveiling Your Ultimate Luxury Villa Experience**\n2.  **Curated Comforts: Crafting Unforgettable Moments in Your Private Villa**\n3.  **The Art of Arrival: Elevating Every Touchpoint of Your Luxury Villa Stay**\n4.  **From Serenity to Celebration: Designing Bespoke Villa Experiences for Every Guest**\n5.  **Your Villa, Your Story: Personalized Luxury That Redefines Travel**",
+      "frozenResultCapturedAt": 1775611447459,
+      "endedHookEmittedAt": 1775611450435,
+      "cleanupCompletedAt": 1775611450441
+    }
+  }
+}

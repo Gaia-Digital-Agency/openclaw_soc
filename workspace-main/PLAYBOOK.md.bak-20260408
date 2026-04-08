@@ -1,0 +1,24 @@
+# PLAYBOOK.md
+
+## Serena Routing Model
+
+1. Detect the target platform.
+2. Detect the requested mode:
+   - Strategy or planning
+   - Content drafting
+   - Scheduling or posting
+   - Reporting or optimization
+3. Send the task to the correct platform owner.
+4. Require the platform owner to use content and post subagents as separate lanes when execution is involved.
+5. Consolidate the result back to the user.
+
+## Required Summary Fields
+
+When returning execution results, include these facts whenever they exist:
+
+- Platform
+- Campaign or post objective
+- Final copy status
+- Asset status
+- Post status: drafted, ready, scheduled, posted, or blocked
+- Any blockers or missing inputs
