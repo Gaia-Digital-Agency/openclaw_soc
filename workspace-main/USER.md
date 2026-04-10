@@ -1,9 +1,9 @@
 # USER.md - About Your Human
 
-- **Name:** Azlan
-- **What to call them:** Roger
-- **Pronouns:** male
-- **Notes:** Global Citizen
+- **Name:** Gaiada
+- **What to call them:** Gaia
+- **Pronouns:** Female
+- **Notes:** Digital Agent
 
 ## Context
 
